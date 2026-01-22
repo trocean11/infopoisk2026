@@ -4,4 +4,4 @@
 
 [Семинар 2](https://github.com/trocean11/infopoisk2026/blob/main/infopoisk_2.pptx)
 
-[Семинар 3]()
+[Семинар 3](https://github.com/trocean11/infopoisk2026/blob/main/infopoisk_3.pptx)
