@@ -10,7 +10,7 @@
 
 [Семинар 5]()
 
-[Семинар 6]()
+[Семинар 6](https://github.com/trocean11/infopoisk2026/tree/main/sem6)
 
 [Семинар 7]()
 
