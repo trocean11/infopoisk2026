@@ -16,7 +16,7 @@
 
 [Семинар 8]()
 
-[Семинары 9-10]()
+[Семинары 9-10](https://github.com/trocean11/infopoisk2026/blob/main/infopoisk9-10.pdf)
 
 ---------
 
