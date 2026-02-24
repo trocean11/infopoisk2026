@@ -6,6 +6,8 @@
 
 [Семинар 3](https://github.com/trocean11/infopoisk2026/blob/main/infopoisk3.pdf)
 
+[Семинар 4](https://github.com/trocean11/infopoisk2026/blob/main/infopoisk4.pdf)
+
 ---------
 
 [Материалы прошлых лет](https://github.com/tokubetsu/infopoisk_bd_2023/)
