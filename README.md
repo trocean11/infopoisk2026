@@ -8,13 +8,13 @@
 
 [Семинар 4](https://github.com/trocean11/infopoisk2026/blob/main/infopoisk4.pdf)
 
-[Семинар 5]()
+[Семинар 5](https://github.com/trocean11/infopoisk2026/tree/main/sem5)
 
 [Семинар 6](https://github.com/trocean11/infopoisk2026/tree/main/sem6)
 
-[Семинар 7]()
+[Семинар 7](https://github.com/trocean11/infopoisk2026/tree/main/sem7)
 
-[Семинар 8]()
+[Семинар 8](https://github.com/trocean11/infopoisk2026/tree/main/sem8)
 
 [Семинары 9-10](https://github.com/trocean11/infopoisk2026/blob/main/infopoisk9-10.pdf)
 
