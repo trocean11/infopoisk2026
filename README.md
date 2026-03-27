@@ -28,6 +28,10 @@
 
 ---------
 
+[ПУД](https://www.hse.ru/edu/courses/1048901106)
+
+---------
+
 [Домашние задания и проект](https://github.com/trocean11/infopoisk2026/tree/main/homework)
 
 ---------
